@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gerador-de-senhas/1.0.0": {
+        "runtime": {
+          "gerador-de-senhas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gerador-de-senhas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
